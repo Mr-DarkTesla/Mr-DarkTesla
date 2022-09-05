@@ -1,4 +1,4 @@
-<h2> Hi, I'm George! <img src="https://media.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="30"></h2>
+<center><h2> Hi, I'm George! <img src="https://media.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="30"></h2></center>
 <img align='right' src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif" width="100">
 <p><em>Undergraduate student at <a href="https://mipt.ru/english/">MIPT </a> (Phystech School of Applied Mathematics and Informatics)
 <img src="https://media.giphy.com/media/r1kWjDT4qfR07zAkxj/giphy.gif" width="30"> 
@@ -8,8 +8,6 @@
 
 [![GitHub MrDarkTesla](https://img.shields.io/github/followers/mr-darktesla?label=follow&style=social)](https://github.com/Mr-DarkTesla)
 [![Discord](https://img.shields.io/discord/389296131919839232?color=white&label=Discord-Server)]()
-
-<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
 ```Python
 class MrDarkTesla:
