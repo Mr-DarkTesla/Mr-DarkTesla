@@ -12,14 +12,15 @@
 ```Python
 class MrDarkTesla:
     def __init__(self):
-        self.professional_interests = ["Maths", "Data_Science", "Deep Learning"]
-        self.programming_languages = ["Python", "SQL", "R", "C++"]
+        self.professional_interests = ["Maths", "Data_Science", "Machine Learning"]
+        self.programming_languages = ["Python", "C++", "SQL", "R"]
         self.pythin_libs = ["Pandas", "PyTorch", "TensorFlow", "QiSkit", "SciPy"]
         self.pronouns = ("he", "his")
 
-    def code(self, task):
-        while not task.is_done():
-            task.solve()
+    def code(self, tasks):
+        while not tasks.empty():
+            new_task = tasks.get()
+            new_task.solve()
 ```
 
 <em>Also I love <b>D&D and memes</b></em>.
